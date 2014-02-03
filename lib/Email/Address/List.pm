@@ -1,8 +1,10 @@
-use strict; use warnings; use 5.008;
+use strict;
+use warnings;
+use 5.010;
 
 package Email::Address::List;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 use Email::Address;
 
 =head1 NAME

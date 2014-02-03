@@ -14,10 +14,10 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 da11d84409210602ee2ad67837b33ec576772788 Changes
+SHA1 d87e0b55e722230431fb230e3fa69a655559c4d0 Changes
 SHA1 17f8596db104ffaea586784e085f4824fb3741ff MANIFEST
-SHA1 a3b86e2fa5cba58aee9c2374039263c3100758a2 META.yml
-SHA1 ec198a1fe6b7f44abb7a32004a6188a5f8dc6374 Makefile.PL
+SHA1 54a411e86ac4e32c59e54936358ff6376ce6c518 META.yml
+SHA1 be4547d00d6c49fe4252da994378c2a7f161c3e5 Makefile.PL
 SHA1 b644102c8baaaf2a17d69c98995750287e0c96d1 README
 SHA1 8a924add836b60fb23b25c8506d45945e02f42f4 inc/Module/Install.pm
 SHA1 2d0fad3bf255f8c1e7e1e34eafccc4f595603ddc inc/Module/Install/Base.pm
@@ -28,7 +28,7 @@ SHA1 1aa925be410bb3bfcd84a16985921f66073cc1d2 inc/Module/Install/Metadata.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
 SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
 SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
-SHA1 9593fbbf90d9185c20f242c41e09f13ab82424ec lib/Email/Address/List.pm
+SHA1 c02f9afdb2325591bacf889cd47a51c996ceae1c lib/Email/Address/List.pm
 SHA1 2c008b60a3213c22fcd7db589456915db8d6825f t/basics.t
 SHA1 d47c146488047eefa8f5ecbee1510f503d26c7c9 t/data/RFC5233.single.obs.json
 SHA1 31183f86437e1a75001fe0b04dea12999881274c t/data/RFC5233.single.obs.txt
@@ -42,7 +42,7 @@ SHA1 b749d9f357f04d94da250c484b753aecc1eb5b1c t/single.suit.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.11 (GNU/Linux)
 
-iEYEARECAAYFAlLgW9IACgkQMflWJZZAbqB2KACbB5t/unSNO1PeyVF+wZjpwKGi
-VdEAnjwmxXWC1wHBye2gjKxhp8M7V8dF
-=OzBw
+iEYEARECAAYFAlLv7mEACgkQMflWJZZAbqC0UACfRjpvHy7LsXEnWTT78rS1XMf4
+lsYAoLvRQ90Crxkg+IPJNVsljujy2jDB
+=P/dI
 -----END PGP SIGNATURE-----
